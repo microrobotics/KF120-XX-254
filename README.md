@@ -1,7 +1,10 @@
 # KF120-XX-254
 KF120 Connectors dataheet and information
 
-<img width="547" height="228" alt="image" src="https://github.com/user-attachments/assets/c73ccda1-5239-4976-8106-d8f160ea1fd8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b5f85c68-d44e-4012-b872-1341bf116524" />
+
+
+
 
 
 
